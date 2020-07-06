@@ -1,0 +1,26 @@
+.Style1{
+    color: goldenrod;
+    background-color: lemonchiffon;
+}
+
+.Style2{
+    color: darkgreen;
+    background-color: black;
+    line-break: normal;
+}
+
+.personal {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    border-style: dashed; 
+    border-color: aquamarine;
+}
+
+figure{
+    padding:30px;
+}
+
+#A {
+    background-color: white;
+}
